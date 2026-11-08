@@ -1,0 +1,16 @@
+Customer Inquiries for Classification:
+
+Inquiry 1:
+"The mobile app crashes every time I tap 'Confirm Payment' on iOS 17."
+
+Inquiry 2:
+"Do you offer educational discounts for university faculty members?"
+
+Inquiry 3:
+"I was charged twice for order #48291 and need a refund immediately."
+
+Inquiry 4:
+"The blue jacket arrived, but the zipper gets stuck halfway up."
+
+Inquiry 5:
+"Where can I view my billing history from last year?"

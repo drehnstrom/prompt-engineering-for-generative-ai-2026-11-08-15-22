@@ -1,0 +1,11 @@
+Novatech Solutions Remote Work and Equipment Security Policy (Section 4):
+
+1. Hardware Provisioning: Full-time employees receive one standard corporate laptop and one external monitor. Peripherals (keyboard, mouse, headset) are reimbursed up to $250 with manager approval upon hire.
+
+2. Network Security: All work-related network traffic must route through the corporate VPN when connecting from home or public networks. Split-tunneling is strictly prohibited.
+
+3. Password and Authentication: Passwords must contain a minimum of 14 characters, including at least one number and one symbol, and must be updated every 180 days. Multi-factor authentication (MFA) via a corporate authenticator app or hardware key is mandatory for all system access.
+
+4. Software Installation: Employees must not install unapproved third-party software, browser extensions, or cloud storage tools on company devices. All software requests must be submitted through the IT Service Catalog.
+
+5. Lost or Stolen Equipment: Any lost or stolen corporate hardware must be reported to the IT Security Incident Response team within 2 hours of discovery via the emergency hotline at 800-555-0199.
