@@ -32,7 +32,7 @@ Constraints:
 - Gemini adopts a senior architectural mentor tone.
 - Output contains exactly three bullet points.
 - Each bullet point includes a production migration consideration relevant to containerization vs VMs.
-- Output length is under 150 words with no conversational filler ("Sure, I can help with that").
+- Output length is under 150 words with no conversational filler (“Sure, I can help with that”).
 
 ### Task 2: Explicit Schemas and Direct Instructions Verification
 
@@ -73,7 +73,7 @@ Constraints:
 ```
 
 **Verification Check:**
-- Output is a parseable JSON object with keys: `customer_sentiment` ("Negative"), `urgency_level` ("High"), `primary_issue`, `affected_component`, and `recommended_action`.
+- Output is a parseable JSON object with keys: `customer_sentiment` (“Negative”), `urgency_level` (“High”), `primary_issue`, `affected_component`, and `recommended_action`.
 
 ### Task 3: Few-Shot Classification Verification
 
@@ -130,7 +130,7 @@ Question: "Can I use my personal Dropbox account to back up project design files
 - Answer states that employees must not install or use unapproved cloud storage tools, referencing Rule 4 (Software Installation).
 
 **Fallback Test (Missing Information):**
-- Query: `"What is the reimbursement allowance for an ergonomic standing desk?"`
+- Query: “What is the reimbursement allowance for an ergonomic standing desk?”
 - Verification Check: Gemini responds with the exact fallback phrase:
   `This information is not covered in the provided policy excerpt.`
 

@@ -139,10 +139,10 @@ Constraints: Provide three concise bullet points. Include one retail
 - Deliverable: Several pages of unstructured prose requiring heavy manual editing
 
 ### Complete Structured Prompt
-- Prompt: Specifies PostgreSQL, high-throughput queries, role, and a markdown table
+- Prompt: Specifies PostgreSQL, high-throughput queries, role, and a Markdown table
 - Result: Five targeted indexing and caching recommendations
 - Tone: Senior database engineer code review
-- Deliverable: Clear table comparing implementation effort, latency impact, and tradeoffs
+- Deliverable: Clear table comparing implementation effort, latency impact, and trade-offs
 
 ---
 
@@ -180,12 +180,12 @@ Constraints: Provide three concise bullet points. Include one retail
 ### Markdown Tables
 - Ideal for comparisons and feature trade-offs
 - Specify exact column headers (such as Feature, Benefit, Risk)
-- Keeps complex comparisons readable at a glance
+- Keep complex comparisons readable at a glance
 
 ### Structured Data Schemas
 - Essential for feeding output into automated downstream pipelines
 - Specify JSON, YAML, or CSV with explicit keys
-- Instruct the model to omit conversational markdown text
+- Instruct the model to omit conversational Markdown text
 
 ### Scannable Bullet Lists
 - Ideal for executive briefs and incident reviews
@@ -397,7 +397,7 @@ Question: "Can I roll over unused vacation days into November next year?"
 - Remedy: Add negative constraints: “Begin response immediately. Maximum 3 bullet points.”
 
 ### Formatting Is Inconsistent
-- Defect: Model alternates between markdown tables, paragraphs, and unordered lists.
+- Defect: Model alternates between Markdown tables, paragraphs, and unordered lists.
 - Remedy: Provide an explicit JSON schema or two concrete few-shot demonstrations.
 
 ### Output Invents Facts
